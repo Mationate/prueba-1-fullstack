@@ -6,7 +6,6 @@
 height: 100vh;
  background-image: url(http://www.discharge123.com/wp-content/uploads/2018/04/Kids-cancer.jpg);
  background-size: cover;
- background-position: center;
 }
 .overlay{
  position: absolute;
@@ -30,4 +29,14 @@ height: 100vh;
 .description button{
  background:#008ab5;
  color:#fff;
+}
+.footer{
+  background-color: #333333;
+  padding: 10px;
+}
+.footer h4{
+  color: rgb(233, 233, 233);
+}
+.footer li{
+  color: rgb(233, 233, 233);
 }
