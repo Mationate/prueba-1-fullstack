@@ -1,0 +1,33 @@
+.nav-link{ margin-right: 1em;
+}
+.navbar-collapse{ justify-content: flex-end;
+}
+.header{
+height: 100vh;
+ background-image: url(http://www.discharge123.com/wp-content/uploads/2018/04/Kids-cancer.jpg);
+ background-size: cover;
+ background-position: center;
+}
+.overlay{
+ position: absolute;
+ min-height: 100%;
+ min-width: 100%;
+ background: rgba(244, 244, 244, 0.79);
+}
+.description{
+    position: absolute;
+    top: 30%;
+    padding: 2em;
+}
+.description h1{
+ color:#008ab5 ;
+}
+.description p{
+ color:#666;
+ font-size: 20px;
+ width: 50%;
+}
+.description button{
+ background:#008ab5;
+ color:#fff;
+}
