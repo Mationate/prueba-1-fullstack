@@ -1,6 +1,6 @@
-#Primera prueba HTML y CSS
+# Primera prueba HTML y CSS
 
-###Requisitos
+### Requisitos
 - Bootstrap
 - Responsividad
 - Estructura _**Navbar, Header, Container, Footer**_
